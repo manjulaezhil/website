@@ -24,3 +24,4 @@ function runClock() {
 
 runClock();
 setInterval(runClock, 1000);
+alert("welcome");
